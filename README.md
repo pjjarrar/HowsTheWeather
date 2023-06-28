@@ -29,7 +29,7 @@
 
 
 ![Simulator Screen Shot - iPhone 13 - 2023-06-28 at 12 06 12](https://github.com/pjjarrar/HowsTheWeather/assets/10969602/fcdd5f26-1166-4dca-b64f-f50a90d9f2f1)
-#
+
 # Dark Mode
 ![Simulator Screen Shot - iPhone 13 - 2023-06-28 at 18 26 42](https://github.com/pjjarrar/HowsTheWeather/assets/10969602/515c180e-507b-4bcd-8a2e-7b4bc78a1f7c)
 # Light Mode
